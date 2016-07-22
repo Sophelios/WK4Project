@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\wk3HmWkp1\wk3HmWkp1\bin\Debug\wk3HmWkp1.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\wk3HmWkp1\wk3HmWkp1\bin\Debug\wk3HmWkp1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\wk3HmWkp1\wk3HmWkp1\bin\Debug\wk3HmWkp1.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\wk3HmWkp1\wk3HmWkp1\obj\Debug\wk3HmWkp1.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\wk3HmWkp1\wk3HmWkp1\obj\Debug\wk3HmWkp1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\wk3HmWkp1\wk3HmWkp1\obj\Debug\wk3HmWkp1.pdb
